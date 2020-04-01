@@ -23,6 +23,16 @@ docker exec -it [CONTAINER ID] bash
 mysql -u root -p
 ```
 
+### MySQLの終了
+```
+quit
+```
+
+### コンテナ内のシェルの終了
+```
+exit
+```
+
 ### コンテナの停止と削除
 ```
 docker-compose down
