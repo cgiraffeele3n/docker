@@ -18,8 +18,12 @@ docker ps
 docker exec -it [CONTAINER ID] bash
 ```
 
-### 　コンテナ内のMySQLに接続
+### コンテナ内のMySQLに接続
+```
 mysql -u root -p
+```
 
 ### コンテナの停止と削除
+```
 docker-compose down
+```
