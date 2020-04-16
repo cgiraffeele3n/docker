@@ -12,3 +12,9 @@ docker-compose up -d
 ```
 docker-compose down
 ```
+
+#### フロントエンド
+http://localhost:3000/
+
+#### バックエンド
+http://localhost:8080/
